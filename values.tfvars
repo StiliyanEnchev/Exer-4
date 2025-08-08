@@ -1,0 +1,6 @@
+resource_group_name     = "AzureTasks"
+resource_group_location = "polandcentral"
+app_service_plan_name   = "AzureTasksServicePlan"
+app_service_name        = "AzureTasksWebApp"
+sql_server_name         = "taskboardsqlserver"
+sql_database_name       = "TaskBoardDB"
